@@ -1,0 +1,7 @@
+---
+layout: page
+title: handouts
+---
+
+This page contains all the handouts one may have received.
+

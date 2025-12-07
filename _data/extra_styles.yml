@@ -1,0 +1,3 @@
+- page: index
+  url: /
+  links: [ index.css ]
