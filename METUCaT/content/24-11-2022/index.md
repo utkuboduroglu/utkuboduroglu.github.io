@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ./content/24-11-22
 ---
 

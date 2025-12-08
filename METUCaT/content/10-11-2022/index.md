@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: ./content/10-11-22
 ---
 

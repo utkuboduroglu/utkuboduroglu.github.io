@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ./content/28-10-2022
 ---
 
