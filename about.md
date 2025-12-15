@@ -11,7 +11,10 @@ noreferrer"}, working on Higher Category Theory.  I'm specifically
 interested in the intersection of category theory with programming,
 though this is not what my thesis is about.
 
-You can visit my [Github page](https://github.com/utkuboduroglu){:target="_blank" :rel="noopener noreferrer"} here, and you can contact me at
+You can visit my [Git
+page](https://git.disroot.org/utkuboduroglu){:target="_blank"
+:rel="noopener noreferrer"} (hosted on Github though that is due to
+change real soon) here, and you can contact me at
 ```
 utkubod [at] protonmail [dot] com
 ```
@@ -30,3 +33,26 @@ these things are subject to change. In any case, most of the page is
 designed to not require JavaScript to view the contents. I do plan on
 creating some interactive pages that will have to use JS in the
 future, though this isn't case as of yet.
+
+## On AI
+Although AI has incredibly domain-specific use cases that I view to be
+valid (such as practicing your language skills conversationally[^1]) ,
+_I am vehemently opposed to the use of AI as if it's a panacea_, as I
+consider it a sorry excuse intellectually, completely vapid and
+insulting artistically, and unmistakably poisonous to life given that
+the prospect of AI is (as with any technology solely pointed at
+reproducing the faculties of human beings) replacing real human beings
+for the sake of profit.
+
+It is further an insult to life considering the amount of natural
+resources—such as land, fuel and water—that go into running the data
+centers responsible for producing the most useless output known to
+humankind. I'd rather expend a mountainous amount of effort into
+producing something incorrect, unimpressive, tired, contrived, or just
+_worthless_ on my own than delegate any part of it to a
+probabilistic-inference-spitting machine that will simply produce a
+facsimile of thought, labor or emotion.  Speaking of, it's insulting
+that we're calling it an artificial _intelligence_, even though we
+know for a fact that there is nothing intelligent about it.
+
+[^1]: Even then, there are so many good books and articles written, videos and games made by actual people who want to share their language with you.
