@@ -20,7 +20,7 @@ utkubod [at] protonmail [dot] com
 ```
 
 # About this blog
-I've felt the need to open a blog, not just so I could have a place to
+I've felt the need to make a blog, not just so I could have a place to
 put my half-baked ideas, but also to share thoughts about things I do
 in my life. You can read more about it here:
 

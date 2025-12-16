@@ -5,7 +5,7 @@ author: utku
 ---
 
 Hey there, thanks for checking out my blog! I've been wanting to
-re-open this blog for the purpose of sharing my thoughts and the sorts
+re-make this blog for the purpose of sharing my thoughts and the sorts
 of "experiments" I make throughout my daily life, but have constantly
 found myself struggling. It more and more seems like my life has
 started revolving around social networks or content platforms, where I
