@@ -77,6 +77,18 @@ body {
     text-decoration-line: unset;
 }
 
+.page-footer {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-footer img {
+    width: 3rem;
+}
+
 code {
     font-family: "Jetbrains Mono", "Noto Sans Mono", monospace;
     font-size: .8rem;
@@ -97,9 +109,16 @@ a {
     color: var(--accent-color);
 }
 
+
+
 a:hover {
     background: var(--accent-color);
     color: var(--nav-current-color);
     padding: 2px;
     text-decoration-line: unset;
+}
+
+.img-href {
+    background: none !important;
+    padding: 0 !important;
 }
