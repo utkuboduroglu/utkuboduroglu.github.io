@@ -13,14 +13,14 @@ though this is not what my thesis is about.
 
 You can visit my [Git
 page](https://git.disroot.org/utkuboduroglu){:target="_blank"
-:rel="noopener noreferrer"} (hosted on Github though that is due to
-change real soon) here, and you can contact me at  ``` utkubod [at]
-protonmail [dot] com ```  or shoot me a message on Mastodon:
+:rel="noopener noreferrer"} here (hosted on Github though that is due
+to change real soon), and you can contact me at ``` utkubod [at]
+protonmail [dot] com ``` or shoot me a message on Mastodon:
 [@utku@gladtech.social](https://gladtech.social/@utku){:target="_blank"
 :rel="noopener noreferrer"}
 
-Any opinions expressed on this site is completely my own unless
-specified otherwise.
+_Any opinions expressed on this site is completely my own unless
+specified otherwise_.
 
 # About this blog
 I've felt the need to make a blog, not just so I could have a place to
@@ -63,8 +63,9 @@ The contents of this blog are distributed under the [CC0 1.0 Universal
 Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/)
 deed to allow for free distribution and modification of the ideas
 expressed. The code that is provided for posts is distributed under
-the [MIT](https://opensource.org/license/MIT) and [Apache
-2.0](https://www.apache.org/licenses/LICENSE-2.0) licenses.
+the [MIT](https://opensource.org/license/MIT) license, because I
+believe in the dream of the internet as a free and collaborative
+space.
 
 The blog further bears the kopimi badge to encourage sharing.
 <hr>

@@ -21,6 +21,26 @@
 	url("fonts/GentiumBook-Regular.ttf");
 }
 
+@font-face {
+    font-family: "EB Garamond Italic";
+    src:
+	local("EB Garamond Italic"),
+	url("fonts/EBGaramond-Italic.ttf");
+}
+
+@font-face {
+    font-family: "EB Garamond";
+    src:
+	local("EB Garamond"),
+	url("fonts/EBGaramond-Regular.ttf");
+}
+
+.fancy-italic {
+    font-family: "EB Garamond Italic";
+    font-style: normal;
+    font-weight: bold;
+}
+
 .language-plaintext {
     font-family: "Noto Sans Mono", monospace;
 }
@@ -53,16 +73,26 @@ body {
 }
 
 .page-nav {
-    padding: 15px 10px;
-
+    padding: 10px;
     display: flex;
     justify-content: center;
+}
+
+.page-nav nav {
+    display: flex;
+    flex-direction: row;
 }
 
 .page-nav nav a {
     padding: .5em;
     font-weight: bold;
     font-size: 1.3rem;
+}
+
+@media (max-width: 500px) {
+  .page-nav nav {
+    flex-direction: column;
+  }
 }
 
 .page-container {
@@ -109,8 +139,6 @@ a {
     color: var(--accent-color);
 }
 
-
-
 a:hover {
     background: var(--accent-color);
     color: var(--nav-current-color);
@@ -122,3 +150,11 @@ a:hover {
     background: none !important;
     padding: 0 !important;
 }
+
+blockquote {
+    font-family: "EB Garamond Italic";
+    font-size: 1.4rem;
+    background: #f7f7f7;
+    padding: 1px 20px 1px;
+}
+

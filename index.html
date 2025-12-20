@@ -10,4 +10,10 @@ title: Landing page
 <hr>
 <h1>Latest <div class="page-title">posts</div></h1>
 
-{% include blog_list.html %}
+<ul>
+  {% for post in site.posts limit:5 %}
+  <li>{{ post.date | date_to_string }} — <a href="{{post.url}}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+

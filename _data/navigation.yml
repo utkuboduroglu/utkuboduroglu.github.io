@@ -3,7 +3,10 @@
   link: /
 - name: About
   id: about
-  link: /about.html
+  link: /about
 - name: Blog
   id: blog
-  link: /blog.html
+  link: /blog
+- name: Webrings
+  id: webrings
+  link: /webrings
