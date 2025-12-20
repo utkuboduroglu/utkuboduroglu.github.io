@@ -19,8 +19,8 @@ protonmail [dot] com ``` or shoot me a message on Mastodon:
 [@utku@gladtech.social](https://gladtech.social/@utku){:target="_blank"
 :rel="noopener noreferrer"}
 
-_Any opinions expressed on this site is completely my own unless
-specified otherwise_.
+_Any opinions expressed on this site are completely my own unless
+explicitly specified otherwise_.
 
 # About this blog
 I've felt the need to make a blog, not just so I could have a place to
@@ -28,6 +28,18 @@ put my half-baked ideas, but also to share thoughts about things I do
 in my life. You can read more about it here:
 
 [Why this blog exists]({% post_url 2025-12-06-why-this-blog-exists %}).
+
+The contents of this blog are distributed under the [CC0 1.0 Universal
+Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/)
+deed to allow for free distribution and modification of the ideas
+expressed. The code that is provided for posts is distributed under
+the [MIT](https://opensource.org/license/MIT) license, because I
+believe in the dream of the internet as a free and collaborative
+space. The blog further bears the kopimi badge to encourage sharing.
+
+There are no analytics or trackers. No data is collected, period. Web
+crawlers are disallowed from crawling the webpage with a `robots.txt`
+file.
 
 ## On the use of JavaScript
 This page <em>currently contains JavaScript</em> for the purposes of
@@ -47,6 +59,10 @@ the prospect of AI is (as with any technology solely pointed at
 reproducing the faculties of human beings) replacing real human beings
 for the sake of profit.
 
+[^1]: Even then, there are so many good books and articles written,
+    videos and games made by actual people who want to share their
+    language with you.
+
 It is further an insult to life considering the amount of natural
 resources—such as land, fuel and water—that go into running the data
 centers responsible for producing the most useless output known to
@@ -58,16 +74,4 @@ facsimile of thought, labor or emotion.  Speaking of, it's insulting
 that we're calling it an artificial _intelligence_, even though we
 know for a fact that there is nothing intelligent about it.
 
-# About the contents of this page
-The contents of this blog are distributed under the [CC0 1.0 Universal
-Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/)
-deed to allow for free distribution and modification of the ideas
-expressed. The code that is provided for posts is distributed under
-the [MIT](https://opensource.org/license/MIT) license, because I
-believe in the dream of the internet as a free and collaborative
-space.
-
-The blog further bears the kopimi badge to encourage sharing.
 <hr>
-
-[^1]: Even then, there are so many good books and articles written, videos and games made by actual people who want to share their language with you.

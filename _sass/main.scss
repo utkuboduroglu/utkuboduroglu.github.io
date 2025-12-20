@@ -156,5 +156,9 @@ blockquote {
     font-size: 1.4rem;
     background: #f7f7f7;
     padding: 1px 20px 1px;
+    border-left: .25em solid lightgray;
 }
 
+figcaption {
+    font-size: 70%;
+}
