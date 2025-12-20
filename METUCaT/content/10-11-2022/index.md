@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: default
 title: ./content/10-11-22
 ---
 
