@@ -54,18 +54,18 @@ internet_. These systems may not have started out as structures
 designed to exploit their users, but they certainly have devolved,
 through the surrounding logic of surveillance capitalism[^4], into
 structures that exploit their users and customers for as much
-behavioral data as possible, which acts as fuel for their
+behavioral data as possible, which act as fuel for their
 "revenue-producing machines".
 
 Such a logic of exploitation and extraction, self-professed by the
 "leaders of industry"[^5], cannot possibly serve the people and their
-desires and demands for privacy, safety or the well-being of
-themselves and their community. You absolutely can meet like-minded
-people and form meaningful connections inside these structures, but
-only because these connections are observable in a way that produces
-revenue for the masters of said structures. You are only allowed to
-hold these conversations because _you are given permission to do so_,
-something that can be taken from away you at any moment.
+desires and demands for privacy, safety or their and their community's
+well-being. You absolutely can meet like-minded people and form
+meaningful connections inside these structures, but only because these
+connections are observable in a way that produces revenue for the
+masters of said structures. You are only allowed to hold these
+conversations because _you are given permission to do so_, something
+that can be taken from away you at any moment.
 
 [^5]: One does not need to look far to see this. Besides all the
     anecdotal evidence you can come up with, the modern economic
@@ -105,7 +105,7 @@ we _just ask nicely_; we need to talk about the conditions we're
 subjugated to, and we need to act on our needs and desires. None of
 that will be possible by conducting these conversations on the terms
 laid out by those who profit from suppressing them, and thus the tools
-we need to facilitate such dialogue and action needs to be built
+we need to facilitate such dialogue and action need to be built
 together and without conceding the necessary freedoms to those who
 benefit from preventing us those freedoms.
 
